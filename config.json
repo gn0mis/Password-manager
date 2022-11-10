@@ -1,0 +1,8 @@
+{
+  "commands":
+    {
+      "pwd": "master-password used to access and add stored passwords",
+      "mode": "either 'view' or 'add' depending on whether you want to add a password or view to stored ones",
+      "--help": "lists all the different commands and what they do"
+    }
+}
