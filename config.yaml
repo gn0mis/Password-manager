@@ -1,0 +1,4 @@
+commands:
+  pwd: master-password used to access your passwords
+  mode: either 'view' or 'add', dependig whether you want to add a password or view your stored ones
+  --help: lists out all the commands, and what they do
